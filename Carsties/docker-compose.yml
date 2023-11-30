@@ -1,4 +1,9 @@
 services:
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+    ports:
+      - "5672:5672"
+      - "15672:15672"
   postgres:
     image: postgres:9.6
     environment:
@@ -21,4 +26,7 @@ services:
 volumes: 
     pdgdata:
     mongodata:
+
+
+
   
