@@ -21,9 +21,6 @@ namespace SearchService.Controllers
             {
                 query.Match(Search.Full, searchParams.SearchTerm).SortByTextScore();
             }
-
-            query.PageNumber(searchParams.PageNumber);
-            query.PageSize(searchParams.PageSize);
             
             query = searchParams.OrderBy switch
             {
@@ -49,6 +46,9 @@ namespace SearchService.Controllers
             {
                 query.Match(x => x.Winner == searchParams.Winner);
             }
+            
+            query.PageNumber(searchParams.PageNumber);
+            query.PageSize(searchParams.PageSize);
             
             var result = await query.ExecuteAsync();
             

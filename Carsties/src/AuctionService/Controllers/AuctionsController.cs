@@ -104,6 +104,8 @@ namespace AuctionService.Controllers
             if (auction is null) return NotFound();
 
             _context.Auctions.Remove(auction);
+
+            await _publishEndpoint.Publish<AuctionDeleted>(new { Id = auction.Id.ToString()});
             
             var result = await _context.SaveChangesAsync() > 0;
 
