@@ -1,5 +1,7 @@
 using System.Text.Json.Serialization;
+using AuctionService.Consumers;
 using AuctionService.Data;
+using Contracts;
 using MassTransit;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
@@ -25,8 +27,9 @@ builder.Services.AddMassTransit(x =>
 
         o.UsePostgres();
         o.UseBusOutbox();
-        
     });
+    
+    x.AddConsumersFromNamespaceContaining<AuctionFinishedConsumer>();
     
     x.UsingRabbitMq((context, cfg) =>
     {
