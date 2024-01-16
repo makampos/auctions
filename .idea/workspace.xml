@@ -5,27 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08793823-38b1-4dba-8936-ce25c02f440c" name="Changes" comment="creating Next.js project">
-      <change afterPath="$PROJECT_DIR$/.idea/auctions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Carsties/src/IdentityService/keys/is-signing-key-F6383F37B5816D088C78A552968D1CCF.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/web-app/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/web-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/web-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/web-app/app/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/web-app/app/globals.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/web-app/app/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/web-app/app/nav/navbar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/web-app/app/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/web-app/next.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/web-app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/web-app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/web-app/postcss.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/web-app/public/next.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/web-app/public/vercel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/web-app/tailwind.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/web-app/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/web-app/app/auctions/AuctionCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/web-app/app/auctions/Listings.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/web-app/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/web-app/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/web-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/web-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/web-app/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/tailwind.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +21,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "makampos"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="92480329-8a16-4371-8f5b-57c695c1fb9f" />
+        <option name="url" value="https://github.com/makampos/auctions.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -71,12 +72,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705429318697</updated>
-      <workItem from="1705429320414" duration="3261000" />
+      <workItem from="1705429320414" duration="5985000" />
     </task>
+    <task id="LOCAL-00001" summary="creating Next.js project">
+      <option name="closed" value="true" />
+      <created>1705432897653</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705432897653</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="creating Next.js project" />
