@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08793823-38b1-4dba-8936-ce25c02f440c" name="Changes" comment="creating Next.js project">
+      <change afterPath="$PROJECT_DIR$/.idea/auctions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Carsties/src/IdentityService/keys/is-signing-key-F6383F37B5816D088C78A552968D1CCF.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/web-app/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/web-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/web-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/web-app/app/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/web-app/app/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/web-app/app/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/web-app/app/nav/navbar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/web-app/app/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/web-app/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/web-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/web-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/web-app/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/web-app/public/next.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/web-app/public/vercel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/web-app/tailwind.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/web-app/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2b32CnOJQJ3kkNW5bnNQZdwi1MK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/mac/RiderProjects/auctions",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.npm run dev.executor": "Run",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Users/mac/RiderProjects/auctions/Frontend/web-app/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08793823-38b1-4dba-8936-ce25c02f440c" name="Changes" comment="" />
+      <created>1705429318697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705429318697</updated>
+      <workItem from="1705429320414" duration="3261000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="creating Next.js project" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating Next.js project" />
+  </component>
+</project>
