@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08793823-38b1-4dba-8936-ce25c02f440c" name="Changes" comment="adding an Auction Card component">
-      <change afterPath="$PROJECT_DIR$/Frontend/web-app/app/auctions/CountdownTimer.tsx" afterDir="false" />
+    <list default="true" id="08793823-38b1-4dba-8936-ce25c02f440c" name="Changes" comment="adding a countdown timer to the auction card">
+      <change afterPath="$PROJECT_DIR$/Frontend/web-app/app/auctions/CarImage.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend/web-app/app/auctions/AuctionCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/app/auctions/AuctionCard.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/web-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/web-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705429318697</updated>
       <workItem from="1705429320414" duration="6442000" />
-      <workItem from="1705585068810" duration="1290000" />
+      <workItem from="1705585068810" duration="2574000" />
     </task>
     <task id="LOCAL-00001" summary="creating Next.js project">
       <option name="closed" value="true" />
@@ -91,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705435944696</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="adding a countdown timer to the auction card">
+      <option name="closed" value="true" />
+      <created>1705586686714</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705586686714</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +117,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="creating Next.js project" />
     <MESSAGE value="adding an Auction Card component" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding an Auction Card component" />
+    <MESSAGE value="adding a countdown timer to the auction card" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding a countdown timer to the auction card" />
   </component>
 </project>
