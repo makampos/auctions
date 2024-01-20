@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08793823-38b1-4dba-8936-ce25c02f440c" name="Changes" comment="adding loading to the images">
-      <change afterPath="$PROJECT_DIR$/Frontend/web-app/types/Index.ts" afterDir="false" />
+    <list default="true" id="08793823-38b1-4dba-8936-ce25c02f440c" name="Changes" comment="adding types to the project">
+      <change afterPath="$PROJECT_DIR$/Frontend/web-app/app/actions/auctionAction.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/web-app/app/components/AppPagination.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend/web-app/app/auctions/Listings.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/app/auctions/Listings.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/web-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/web-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/web-app/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/tailwind.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +75,9 @@
       <option name="presentableId" value="Default" />
       <updated>1705429318697</updated>
       <workItem from="1705429320414" duration="6442000" />
-      <workItem from="1705585068810" duration="3621000" />
+      <workItem from="1705585068810" duration="3999000" />
+      <workItem from="1705595600129" duration="248000" />
+      <workItem from="1705751590487" duration="2226000" />
     </task>
     <task id="LOCAL-00001" summary="creating Next.js project">
       <option name="closed" value="true" />
@@ -105,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705587673563</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="adding types to the project">
+      <option name="closed" value="true" />
+      <created>1705588972932</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705588972932</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +141,7 @@
     <MESSAGE value="adding an Auction Card component" />
     <MESSAGE value="adding a countdown timer to the auction card" />
     <MESSAGE value="adding loading to the images" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding loading to the images" />
+    <MESSAGE value="adding types to the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding types to the project" />
   </component>
 </project>
