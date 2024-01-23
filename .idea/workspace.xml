@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08793823-38b1-4dba-8936-ce25c02f440c" name="Changes" comment="adding types to the project">
-      <change afterPath="$PROJECT_DIR$/Frontend/web-app/app/actions/auctionAction.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/web-app/app/components/AppPagination.tsx" afterDir="false" />
+    <list default="true" id="08793823-38b1-4dba-8936-ce25c02f440c" name="Changes" comment="adding pagination">
+      <change afterPath="$PROJECT_DIR$/Frontend/web-app/app/auctions/Filter.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/web-app/app/actions/auctionAction.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/app/actions/auctionAction.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend/web-app/app/auctions/Listings.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/app/auctions/Listings.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/web-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/web-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/web-app/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/tailwind.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +74,8 @@
       <workItem from="1705429320414" duration="6442000" />
       <workItem from="1705585068810" duration="3999000" />
       <workItem from="1705595600129" duration="248000" />
-      <workItem from="1705751590487" duration="2226000" />
+      <workItem from="1705751590487" duration="2646000" />
+      <workItem from="1706018323026" duration="973000" />
     </task>
     <task id="LOCAL-00001" summary="creating Next.js project">
       <option name="closed" value="true" />
@@ -119,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705588972932</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="adding pagination">
+      <option name="closed" value="true" />
+      <created>1705754173681</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705754173681</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +148,7 @@
     <MESSAGE value="adding a countdown timer to the auction card" />
     <MESSAGE value="adding loading to the images" />
     <MESSAGE value="adding types to the project" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding types to the project" />
+    <MESSAGE value="adding pagination" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding pagination" />
   </component>
 </project>
