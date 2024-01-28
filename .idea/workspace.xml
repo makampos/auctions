@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08793823-38b1-4dba-8936-ce25c02f440c" name="Changes" comment="adding a set page size option">
-      <change afterPath="$PROJECT_DIR$/Frontend/web-app/hooks/UseParamsStore.tsx" afterDir="false" />
+    <list default="true" id="08793823-38b1-4dba-8936-ce25c02f440c" name="Changes" comment="refactoring to use the zustand state">
+      <change afterPath="$PROJECT_DIR$/Frontend/web-app/app/nav/Search.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/web-app/app/actions/auctionAction.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/app/actions/auctionAction.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/web-app/app/auctions/Filter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/app/auctions/Filters.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/web-app/app/auctions/Listings.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/app/auctions/Listings.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/web-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/web-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/web-app/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/web-app/app/nav/navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/app/nav/Navbar.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +75,8 @@
       <workItem from="1705585068810" duration="3999000" />
       <workItem from="1705595600129" duration="248000" />
       <workItem from="1705751590487" duration="2646000" />
-      <workItem from="1706018323026" duration="4027000" />
+      <workItem from="1706018323026" duration="4357000" />
+      <workItem from="1706449383775" duration="641000" />
     </task>
     <task id="LOCAL-00001" summary="creating Next.js project">
       <option name="closed" value="true" />
@@ -136,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706019577253</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="refactoring to use the zustand state">
+      <option name="closed" value="true" />
+      <created>1706022744281</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706022744281</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +167,7 @@
     <MESSAGE value="adding types to the project" />
     <MESSAGE value="adding pagination" />
     <MESSAGE value="adding a set page size option" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding a set page size option" />
+    <MESSAGE value="refactoring to use the zustand state" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring to use the zustand state" />
   </component>
 </project>
