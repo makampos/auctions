@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08793823-38b1-4dba-8936-ce25c02f440c" name="Changes" comment="adding search bar component">
-      <change afterPath="$PROJECT_DIR$/Frontend/web-app/app/nav/Logo.tsx" afterDir="false" />
+    <list default="true" id="08793823-38b1-4dba-8936-ce25c02f440c" name="Changes" comment="adding reset state">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/web-app/app/nav/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/app/nav/Navbar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/web-app/app/nav/Search.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/app/nav/Search.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/web-app/app/auctions/Filters.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/app/auctions/Filters.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/web-app/app/auctions/Listings.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/app/auctions/Listings.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend/web-app/hooks/UseParamsStore.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/web-app/hooks/UseParamsStore.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +76,9 @@
       <workItem from="1705595600129" duration="248000" />
       <workItem from="1705751590487" duration="2646000" />
       <workItem from="1706018323026" duration="4357000" />
-      <workItem from="1706449383775" duration="3699000" />
+      <workItem from="1706449383775" duration="3949000" />
+      <workItem from="1706453356975" duration="13000" />
+      <workItem from="1706667583866" duration="1018000" />
     </task>
     <task id="LOCAL-00001" summary="creating Next.js project">
       <option name="closed" value="true" />
@@ -151,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706450286235</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="adding reset state">
+      <option name="closed" value="true" />
+      <created>1706453297386</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706453297386</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +187,7 @@
     <MESSAGE value="adding a set page size option" />
     <MESSAGE value="refactoring to use the zustand state" />
     <MESSAGE value="adding search bar component" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding search bar component" />
+    <MESSAGE value="adding reset state" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding reset state" />
   </component>
 </project>
